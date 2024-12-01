@@ -29,7 +29,9 @@ Core             TypeScript, JavaScript
 
 #### Public Open source contributions on NPM
 - [URL Shortener Package](https://www.npmjs.com/package/@sid3945/url-shortener)
+A lightweight, secure Node.js URL shortener with Redis, featuring unique, collision-free shortened URLs via cryptographically secure random strings.
 - [Node.js Rate Limiter](https://www.npmjs.com/package/@sid3945/rate-limiter)
+A flexible and robust rate limiting middleware for Node.js applications with support for both in-memory and Redis-based storage. This rate limiter can be used in both single-server and distributed environments.
 
 #### Trading Strategies Platform
 - MEAN stack application for executing trading strategies
