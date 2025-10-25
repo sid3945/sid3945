@@ -8,15 +8,15 @@
 
 Full-stack engineer with proven 0→1 product building experience. Love building platforms ground-up, architecting multi-tenant data systems processing millions of events. Getting my hands dirty with low level code. Obsessed with engineering from first principles.
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
 ```text
 Languages        Javascript/ Typescript, Python, Java
 Backend          Node.js (Express, Sails), Spring Boot, GraphQL, gRPC, Sockets
 Frontend         React, Angular, HTML/CSS
-Databases & ML        Postgres, MongoDB, Cassandra, CockroachDB, ClickHouse, BigQuery, Redis, RAG Implementation, LLM Integration
+Databases & ML   Postgres, MongoDB, Cassandra, CockroachDB, ClickHouse, BigQuery, Redis, RAG Implementation, LLM Integration
 Cloud & DevOps   Kubernetes, Docker, GCP, Temporal.io, CI/CD (ADO, Jenkins)
-Architecture             Microservices, Event-Driven Systems, Multi-tenancy, System Design
+Architecture     Microservices, Event-Driven Systems, Multi-tenancy, System Design
 ```
 
 ### 🔗 Connect with Me
